@@ -1,0 +1,27 @@
+{
+    "arcade": {
+        "names": [
+            {
+                "region": "world", 
+                "roman": "Arcade"        
+            }
+        ]
+    },
+    "genesis": {
+        "names": [
+            {
+                "region": "world", 
+                "roman": "Mega Drive"        
+            },
+            {
+                "region": "unitedStates",
+                "roman": "Genesis"
+            },
+            {
+                "region": "japan",
+                "roman": "Mega Drive",
+                "original": "メガドライブ"
+            }
+        ]
+    }
+}

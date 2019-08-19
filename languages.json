@@ -1,0 +1,12 @@
+{
+    "english": {
+        "siteName": "Fighters",
+        "subdomain": "en",
+        "dataFormat": "M d, Y"
+    },
+    "portuguese": {
+        "siteName": "Fighters",
+        "subdomain": "pt",
+        "dateFormat": "d/m/Y"
+    }
+}

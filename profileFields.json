@@ -1,0 +1,10 @@
+{
+    "english": [
+        { "fightingStyle": "Fighting Style" },
+        { "height": "Height" }
+    ],
+    "portuguese": [
+        { "fightingStyle": "Estilo de Combate" },
+        { "height": "Altura" }
+    ]
+}

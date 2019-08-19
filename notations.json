@@ -1,0 +1,16 @@
+{
+    "numbers": {
+        ":f:": "6",
+        ":b:": "4"
+    },
+    "faq": {
+        ":f:": "f",
+        ":b:": "b"
+    },
+    "arrows": {
+        ":f:": "arrow-front",
+        ":df:": "arrow-down-front",
+        ":db:": "arrow-down-back",
+        ":b:": "arrow-back"
+    }
+}
