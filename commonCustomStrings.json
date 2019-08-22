@@ -35,7 +35,7 @@
 				{ "duringDash" : "during a dash"},
 				{ "doNothing": "do nothing"},
 				{ "onCrouchingOpponent": "on a crouching opponent"},
-				{ "useBOrFToMove": "use :b: or :f: to move"}
+				{ "exOnly": "costs 1 EX meter"}
 	],
 	"portuguese": [
 				{ "or": "ou"},
@@ -72,6 +72,7 @@
 				{ "duringVTrigger2": "durante o V-Trigger 2"},*/				
 				{ "duringDash" : "durante um dash"},
 				{ "doNothing": "não faça nada"},
-				{ "onCrouchingOpponent": "em um oponente abaixado"}
+				{ "onCrouchingOpponent": "em um oponente abaixado"},
+				{ "exOnly": "custa 1 barra do medidor EX"}
 	]
 }
