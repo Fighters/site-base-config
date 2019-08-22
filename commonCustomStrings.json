@@ -1,0 +1,10 @@
+{
+  "english": [
+			{ "or": "or"},
+			{ "airOK":"can be done in the air"},
+  ],
+  "portuguese": [
+    { "or": "ou"},
+    { "airOK":"também pode ser feito no ar"},
+  ]
+}
