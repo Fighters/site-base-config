@@ -37,7 +37,11 @@
 				{ "duringDash" : "during a dash"},
 				{ "doNothing": "do nothing"},
 				{ "onCrouchingOpponent": "on a crouching opponent"},
-				{ "exOnly": "costs 1 EX meter"}
+				{ "exOnly": "costs 1 EX meter"},
+				{ "upTo2x" : "can be done up to 2 times"},
+				{ "upTo3x" : "can be done up to 3 times"},
+				{ "upTo4x" : "can be done up to 4 times"},
+				{ "upTo5x" : "can be done up to 5 times"}
 	],
 	"portuguese": [
 				{ "or": "ou"},
@@ -77,6 +81,10 @@
 				{ "duringDash" : "durante um dash"},
 				{ "doNothing": "não faça nada"},
 				{ "onCrouchingOpponent": "em um oponente abaixado"},
-				{ "exOnly": "custa 1 barra do medidor EX"}
+				{ "exOnly": "custa 1 barra do medidor EX"},
+				{ "upTo2x" : "pode ser feito até 2 vezes"},
+				{ "upTo3x" : "pode ser feito até 3 vezes"},
+				{ "upTo4x" : "pode ser feito até 4 vezes"},
+				{ "upTo5x" : "pode ser feito até 5 vezes"}
 	]
 }
