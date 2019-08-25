@@ -45,7 +45,8 @@
 				{ "upTo2x" : "can be done up to 2 times"},
 				{ "upTo3x" : "can be done up to 3 times"},
 				{ "upTo4x" : "can be done up to 4 times"},
-				{ "upTo5x" : "can be done up to 5 times"}
+				{ "upTo5x" : "can be done up to 5 times"},
+				{ "atJumpApex": "at a jump's apex"}
 	],
 	"portuguese": [
 				{ "or": "ou"},
@@ -93,6 +94,7 @@
 				{ "upTo2x" : "pode ser feito até 2 vezes"},
 				{ "upTo3x" : "pode ser feito até 3 vezes"},
 				{ "upTo4x" : "pode ser feito até 4 vezes"},
-				{ "upTo5x" : "pode ser feito até 5 vezes"}
+				{ "upTo5x" : "pode ser feito até 5 vezes"},
+				{ "atJumpApex": "no ponto mais alto do pulo"}
 	]
 }
