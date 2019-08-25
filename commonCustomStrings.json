@@ -35,7 +35,7 @@
 				{ "toCharge": "to charge"},
 				{ "toExtend": "to extend the duration"},
 				{ "toAttack": "to attack"},
-				{ "toMove" : "to mover"},
+				{ "toMove" : "to move"},
 				{ "toControlDistance": "to control the distance"},
 				{ "charge": "charge"},
 				/*{ "duringVTrigger1": "during V-Trigger 1"},
