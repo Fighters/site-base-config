@@ -51,7 +51,8 @@
 				{ "upTo5x" : "can be done up to 5 times"},
 				{ "atJumpApex": "at a jump's apex"},
 				{ "nearOpponentHead": "near the opponent's head"},
-				{ "nearOpponentWaist": "near the opponent's waist"}
+				{ "nearOpponentWaist": "near the opponent's waist"},
+				{ "level3": "requires level 3 on the super meter"}
 	],
 	"portuguese": [
 				{ "or": "ou"},
@@ -105,6 +106,7 @@
 				{ "upTo5x" : "pode ser feito até 5 vezes"},
 				{ "atJumpApex": "no ponto mais alto do pulo"},
 				{ "nearOpponentHead": "próximo à cabeça do oponente"},
-				{ "nearOpponentWaist": "próximo à cintura do oponente"}
+				{ "nearOpponentWaist": "próximo à cintura do oponente"},
+				{ "level3": "custa 3 níveis do medidor de super"}
 	]
 }
