@@ -53,7 +53,8 @@
 				{ "nearOpponentHead": "near the opponent's head"},
 				{ "nearOpponentWaist": "near the opponent's waist"},
 				{ "level3": "requires level 3 on the super meter"},
-				{ "whenKnockedDown": "when knocked down"}
+				{ "whenKnockedDown": "when knocked down"},
+				{ "whileLanding" : "while landing"}
 	],
 	"portuguese": [
 				{ "or": "ou"},
@@ -109,6 +110,7 @@
 				{ "nearOpponentHead": "próximo à cabeça do oponente"},
 				{ "nearOpponentWaist": "próximo à cintura do oponente"},
 				{ "level3": "custa 3 níveis do medidor de super"},
-				{ "whenKnockedDown": "ao ser derrubado"}
+				{ "whenKnockedDown": "ao ser derrubado"},
+				{ "whileLanding" : "ao chegar ao chão após um pulo"}
 	]
 }
