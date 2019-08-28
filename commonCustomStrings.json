@@ -49,7 +49,9 @@
 				{ "upTo3x" : "can be done up to 3 times"},
 				{ "upTo4x" : "can be done up to 4 times"},
 				{ "upTo5x" : "can be done up to 5 times"},
-				{ "atJumpApex": "at a jump's apex"}
+				{ "atJumpApex": "at a jump's apex"},
+				{ "nearOpponentHead": "near the opponent's head"},
+				{ "nearOpponentWaist": "near the opponent's waist"}
 	],
 	"portuguese": [
 				{ "or": "ou"},
@@ -101,6 +103,8 @@
 				{ "upTo3x" : "pode ser feito até 3 vezes"},
 				{ "upTo4x" : "pode ser feito até 4 vezes"},
 				{ "upTo5x" : "pode ser feito até 5 vezes"},
-				{ "atJumpApex": "no ponto mais alto do pulo"}
+				{ "atJumpApex": "no ponto mais alto do pulo"},
+				{ "nearOpponentHead": "próximo à cabeça do oponente"},
+				{ "nearOpponentWaist": "próximo à cintura do oponente"}
 	]
 }
