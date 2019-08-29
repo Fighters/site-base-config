@@ -94,9 +94,7 @@
 				{ "toExtend": "para aumentar a duração"},
 				{ "toAttack": "para atacar"},
 				{ "toControlDistance": "para controlar a distância"},
-				{ "toMove" : "para se mover"},				
-				/*{ "duringVTrigger1": "durante o V-Trigger 1"},
-				{ "duringVTrigger2": "durante o V-Trigger 2"},*/				
+				{ "toMove" : "para se mover"},								
 				{ "duringDash" : "durante um dash"},
 				{ "doNothing": "não faça nada"},
 				{ "onCrouchingOpponent": "em um oponente abaixado"},
