@@ -1,16 +1,36 @@
 {
     "numbers": {
         ":f:": "6",
-        ":b:": "4"
+        ":df:": "3",
+        ":d:": "2",
+        ":db:": "1",
+        ":b:": "4",
+        ":ub:": "7",
+        ":u:": "8",
+        ":uf:": "9",
+        ":n:": "5"
     },
     "faq": {
         ":f:": "f",
-        ":b:": "b"
+        ":df:": "df",
+        ":d:": "d",
+        ":db:": "db",
+        ":b:": "b",
+        ":ub:": "ub",
+        ":u:": "u",
+        ":uf:": "uf",
+        ":n:": "n"
     },
     "arrows": {
-        ":f:": "arrow-front",
-        ":df:": "arrow-down-front",
-        ":db:": "arrow-down-back",
-        ":b:": "arrow-back"
+        ":f:": "arrow-f",
+        ":df:": "arrow-df",
+        ":d:": "arrow-d",
+        ":db:": "arrow-db",
+        ":b:": "arrow-b",
+        ":ub:": "arrow-ub",
+        ":u:": "arrow-u",
+        ":uf:": "arrow-uf",
+        ":n:": "arrow-n"
+
     }
 }
