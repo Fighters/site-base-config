@@ -57,6 +57,7 @@
 	],
 	"portuguese": [
 				{ "or": "ou"},
+				{ "and": "e"},
 				{ "airOK":"também pode ser feito no ar"},
 				{ "close": "perto"},
 				{ "inAir" : "no ar" },
