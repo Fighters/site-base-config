@@ -14,6 +14,7 @@
 				{ "whileBlocking": "while blocking"},
 				{ "whileDelaying": "while delaying"},
 				{ "whileGettingUp": "while getting up"},
+				{ "whileRunning": "while running"},
 				{ "tap": "tap"},
 				{ "repeatedly": "repeatedly"},
 				{ "tapPunch": "tap [P] repeatedly"},
@@ -53,10 +54,13 @@
 				{ "atJumpApex": "at a jump's apex"},
 				{ "nearOpponentHead": "near the opponent's head"},
 				{ "nearOpponentWaist": "near the opponent's waist"},
+				{ "nearKnockedDownOpponent": "near a knocked down opponent"},
+				{ "level2": "requires level 2 on the super meter"},
 				{ "level3": "requires level 3 on the super meter"},
 				{ "whenKnockedDown": "when knocked down"},
 				{ "whileLanding" : "while landing"},
-				{ "anyDirection": "any direction"}
+				{ "anyDirection": "any direction"},
+				{ "taunt": "taunt"}
 	],
 	"portuguese": [
 				{ "or": "ou"},
@@ -74,6 +78,7 @@
 				{ "whileBlocking": "ao defender"},
 				{ "whileDelaying": "ao atrasar"},
 				{ "whileGettingUp": "ao levantar"},
+				{ "whileRunning": "durante a corrida"},
 				{ "tap": "aperte"},
 				{ "repeatedly": "repetidamente"},
 				{ "tapPunch": "aperte [P] repetidamente"},
@@ -113,9 +118,12 @@
 				{ "atJumpApex": "no ponto mais alto do pulo"},
 				{ "nearOpponentHead": "próximo à cabeça do oponente"},
 				{ "nearOpponentWaist": "próximo à cintura do oponente"},
+				{ "nearKnockedDownOpponent": "próximo ao oponente caído"},
+				{ "level2": "custa 2 níveis do medidor de super"},
 				{ "level3": "custa 3 níveis do medidor de super"},
 				{ "whenKnockedDown": "ao ser derrubado"},
 				{ "whileLanding" : "ao chegar ao chão após um pulo"},
-				{ "anyDirection": "qualquer direção"}
+				{ "anyDirection": "qualquer direção"},
+				{ "taunt": "provocação"}
 	]
 }
