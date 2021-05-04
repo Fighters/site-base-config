@@ -60,7 +60,9 @@
 				{ "whenKnockedDown": "when knocked down"},
 				{ "whileLanding" : "while landing"},
 				{ "anyDirection": "any direction"},
-				{ "taunt": "taunt"}
+				{ "taunt": "taunt"},
+				{ "duringForwardDash" : "during a forward dash"},
+				{ "duringBackDash" : "during a back dash"}
 	],
 	"portuguese": [
 				{ "or": "ou"},
@@ -124,6 +126,8 @@
 				{ "whenKnockedDown": "ao ser derrubado"},
 				{ "whileLanding" : "ao chegar ao chão após um pulo"},
 				{ "anyDirection": "qualquer direção"},
-				{ "taunt": "provocação"}
+				{ "taunt": "provocação"},
+				{ "duringForwardDash" : "durante um dash para frente"},
+				{ "duringBackDash" : "durante um dash para trás"}
 	]
 }
